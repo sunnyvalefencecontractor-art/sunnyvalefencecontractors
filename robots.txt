@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sunnyvalefencecontractors.com/sitemap.xml
+Sitemap: https://sunnyvalefencecontractors.vercel.app/sitemap.xml
